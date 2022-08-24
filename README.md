@@ -11,6 +11,8 @@ URI: https://cleancoded.com
 
 This gem is used for importing Shopify Custom Tshirt Design App.
 
+![T-shirt](https://github.com/cleancoded/Shopify-Custom-Tshirt-Design-App/blob/master/uploaded_images/product_image_editor.png)
+
 ## Requirements
 
 > **Rails compatibility** 
